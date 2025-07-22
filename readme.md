@@ -10,18 +10,6 @@ Clone the repo and follow below steps.
 5. Run `php artisan migrate --seed`
 6. Run `php artisan serve` as per your environment
 
-### Demo Credentials
----
-*Make sure database is seed before you use these credentials.*
-
 **User:** admin@gmail.com
 
 **Password:** 123456
-
-
-    GitHub (hellokeyur): Laravel Payroll Help - (https://t.me/+BjDDgVz5BaE1ZTQ1)
-
-## Contribution
-Please feel free to make any project-related pull requests. You should give us an email at the following addresses if you wish to propose any new updates or features to the project.
-
-    1. Keyur Vamja - keyur.vamja.it@gmail.com
