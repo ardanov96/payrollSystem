@@ -1,10 +1,5 @@
 ## Laravel Payroll System (Current: Laravel 5.8.*)
 
-### Introduction
----
-The Laravel Payroll System gives you a huge head start on any web application of any sort. It comes with a full-featured access control system that is simple to use right out of the box. I put a lot of effort into it, and I hope it will be useful to you and save you time!
-
-
 ### Setup
 ---
 Clone the repo and follow below steps.
@@ -23,31 +18,6 @@ Clone the repo and follow below steps.
 
 **Password:** 123456
 
-## ScreenShots
-
-## Dashboard
-![Screenshot](screenshots/dashboard.png)
-
-## Employee Checkin/Out
-![Screenshot](screenshots/checkin.png)
-
-## Employee Create
-![Screenshot](screenshots/add_employee.png)
-
-## Schedule
-![Screenshot](screenshots/schedule.png)
-
-## Payroll
-![Screenshot](screenshots/payroll.png)
-
-## Admin Profile
-![Screenshot](screenshots/admin_profile.png)
-
-## Issues
-If you have any issues please report them [here](https://github.com/helloKeyur/PayrollSystem/issues).
-
-## Support
-You can feel free to connect with us via the [Telegram Channel](https://t.me/+BjDDgVz5BaE1ZTQ1) [Free].
 
     GitHub (hellokeyur): Laravel Payroll Help - (https://t.me/+BjDDgVz5BaE1ZTQ1)
 
